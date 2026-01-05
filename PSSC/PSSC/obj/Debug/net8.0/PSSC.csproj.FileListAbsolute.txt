@@ -1,0 +1,14 @@
+D:\Proiect-PSSC-main\PSSC\PSSC\bin\Debug\net8.0\PSSC.exe
+D:\Proiect-PSSC-main\PSSC\PSSC\bin\Debug\net8.0\PSSC.deps.json
+D:\Proiect-PSSC-main\PSSC\PSSC\bin\Debug\net8.0\PSSC.runtimeconfig.json
+D:\Proiect-PSSC-main\PSSC\PSSC\bin\Debug\net8.0\PSSC.dll
+D:\Proiect-PSSC-main\PSSC\PSSC\bin\Debug\net8.0\PSSC.pdb
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.AssemblyInfoInputs.cache
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.AssemblyInfo.cs
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.csproj.CoreCompileInputs.cache
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.dll
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\refint\PSSC.dll
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.pdb
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\PSSC.genruntimeconfig.cache
+D:\Proiect-PSSC-main\PSSC\PSSC\obj\Debug\net8.0\ref\PSSC.dll

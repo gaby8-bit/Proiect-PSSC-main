@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proiect-PSSC-main\\PSSC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\pssc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\pssc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\models\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\models\\quantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\aggreates\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\aggreates\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\models\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\models\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|d:\\proiect-pssc-main\\pssc\\pssc\\events\\orderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5440B54-8DF4-4829-B65E-4A19EECF7D9E}|PSSC\\PSSC.csproj|solutionrelative:pssc\\events\\orderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "PSSC\\Common\\Result.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Common\\Result.cs",
+              "RelativeToolTip": "PSSC\\Common\\Result.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:25:37.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PSSC",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\PSSC.csproj",
+              "RelativeDocumentMoniker": "PSSC\\PSSC.csproj",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\PSSC.csproj",
+              "RelativeToolTip": "PSSC\\PSSC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T15:23:58.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PSSC\\Models\\Customer.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\Customer.cs",
+              "RelativeToolTip": "PSSC\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:22:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "PSSC\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Services\\OrderService.cs",
+              "RelativeToolTip": "PSSC\\Services\\OrderService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:21:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Aggreates\\Order.cs",
+              "RelativeDocumentMoniker": "PSSC\\Aggreates\\Order.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Aggreates\\Order.cs",
+              "RelativeToolTip": "PSSC\\Aggreates\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:19:16.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\OrderLine.cs",
+              "RelativeDocumentMoniker": "PSSC\\Models\\OrderLine.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\OrderLine.cs",
+              "RelativeToolTip": "PSSC\\Models\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:18:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quantity.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\Quantity.cs",
+              "RelativeDocumentMoniker": "PSSC\\Models\\Quantity.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\Quantity.cs",
+              "RelativeToolTip": "PSSC\\Models\\Quantity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:15:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "PSSC\\Models\\Address.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Models\\Address.cs",
+              "RelativeToolTip": "PSSC\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:14:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Program.cs",
+              "RelativeDocumentMoniker": "PSSC\\Program.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Program.cs",
+              "RelativeToolTip": "PSSC\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:16:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPlacedEvent.cs",
+              "DocumentMoniker": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Events\\OrderPlacedEvent.cs",
+              "RelativeDocumentMoniker": "PSSC\\Events\\OrderPlacedEvent.cs",
+              "ToolTip": "D:\\Proiect-PSSC-main\\PSSC\\PSSC\\Events\\OrderPlacedEvent.cs",
+              "RelativeToolTip": "PSSC\\Events\\OrderPlacedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:24:21.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

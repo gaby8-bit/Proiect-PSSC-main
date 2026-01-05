@@ -1,0 +1,10 @@
+Preluare Comandă (Order Placement): Verifică stocul, validează datele clientului și calculează prețul total.
+
+Facturare (Billing): Se declanșează automat după ce comanda a fost preluată cu succes. Generarea facturii și procesarea plății.
+
+Expediere (Shipping): Se declanșează după ce factura a fost achitată. Pregătirea coletului și alocarea unui AWB.
+
+Bounded Context (Domeniul)	      Workflow (Procesul principal)	Operații specifice (Ce se întâmplă în interior)
+1. Gestiune Comenzi (Sales)	      Preluare Comandă	                Validare stoc, Calcul preț total, Verificare date client.
+2. Facturare (Billing/Accounting)     Generare Factură	                Calcul TVA, Emitere document, Înregistrare plată.
+3. Logistică (Shipping/Delivery)      Expediere Comandă	                Alocare curier, Generare AWB, Actualizare status livrare.
